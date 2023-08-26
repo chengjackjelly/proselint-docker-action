@@ -1,0 +1,6 @@
+# action.yml
+name: 'proselint action'
+description: 'a linter for prose'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
